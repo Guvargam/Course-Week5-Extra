@@ -1,0 +1,6 @@
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\01_CharIS\bin\Debug\01_CharIS.exe.config
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\01_CharIS\bin\Debug\01_CharIS.exe
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\01_CharIS\bin\Debug\01_CharIS.pdb
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\01_CharIS\obj\Debug\01_CharIS.exe
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\01_CharIS\obj\Debug\01_CharIS.pdb
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\01_CharIS\obj\Debug\01_CharIS.csprojResolveAssemblyReference.cache
