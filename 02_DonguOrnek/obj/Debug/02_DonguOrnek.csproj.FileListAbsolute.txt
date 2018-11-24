@@ -1,0 +1,5 @@
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\02_DonguOrnek\bin\Debug\02_DonguOrnek.exe.config
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\02_DonguOrnek\bin\Debug\02_DonguOrnek.exe
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\02_DonguOrnek\bin\Debug\02_DonguOrnek.pdb
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\02_DonguOrnek\obj\Debug\02_DonguOrnek.exe
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\02_DonguOrnek\obj\Debug\02_DonguOrnek.pdb

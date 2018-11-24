@@ -1,0 +1,6 @@
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\01_CumledekiKelimeleriSay\bin\Debug\01_CumledekiKelimeleriSay.exe.config
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\01_CumledekiKelimeleriSay\bin\Debug\01_CumledekiKelimeleriSay.exe
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\01_CumledekiKelimeleriSay\bin\Debug\01_CumledekiKelimeleriSay.pdb
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\01_CumledekiKelimeleriSay\obj\Debug\01_CumledekiKelimeleriSay.csprojResolveAssemblyReference.cache
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\01_CumledekiKelimeleriSay\obj\Debug\01_CumledekiKelimeleriSay.exe
+F:\2018-2019-GrupDosyaları\C#1\4-Per-Cuma-Öğle\HAFTA5\01_CumledekiKelimeleriSay\obj\Debug\01_CumledekiKelimeleriSay.pdb
